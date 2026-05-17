@@ -10,7 +10,7 @@ const data = {
       emEstoque: true
     },
     {
-      id: 4,
+      id: 2,
       nome: "Óculos Rosa",
       preco: 129.00,
       categoria: "Acessórios",
@@ -19,16 +19,16 @@ const data = {
       emEstoque: false
     },
     {
-      id: 5,
+      id: 3,
       nome: "Calça Jeans Cargo",
       preco: 319.90,
       categoria: "Roupas",
       imagem: "images/calca.svg",
-      descricao: "Calça Jeans Cargo, modelo wide Leg. Super estilosa e despojada, para ocasiões básicas com muito estilo.",
+      descricao: "Calça Jeans Cargo, modelo wide leg. Super estilosa e despojada, para ocasiões básicas com muito estilo.",
       emEstoque: true
     },
     {
-      id: 6,
+      id: 4,
       nome: "Camisa Brasil",
       preco: 249.00,
       categoria: "Roupas",
@@ -37,7 +37,7 @@ const data = {
       emEstoque: true
     },
     {
-      id: 7,
+      id: 5,
       nome: "Bolsa Rosa Chanel",
       preco: 998.90,
       categoria: "Acessórios",
@@ -46,17 +46,17 @@ const data = {
       emEstoque: true
     },
     {
-      id: 8,
+      id: 6,
       nome: "Sandália Gladiadora",
       preco: 99.90,
       categoria: "Sapatos",
       imagem: "images/sapato.svg",
-      descricao: "Sandália gladiora branca, com tiras. Perfeita para compor looks confortáveis do dia a dia",
+      descricao: "Sandália gladiadora branca, com tiras. Perfeita para compor looks confortáveis do dia a dia.",
       emEstoque: true
     },
     {
-      id: 9,
-      nome: "Saia jeans curta",
+      id: 7,
+      nome: "Saia Jeans Curta",
       preco: 179.00,
       categoria: "Roupas",
       imagem: "images/saia.svg",
@@ -64,8 +64,8 @@ const data = {
       emEstoque: false
     },
     {
-      id: 10,
-      nome: "Capinha de celular rosa",
+      id: 8,
+      nome: "Capinha de Celular Rosa",
       preco: 69.90,
       categoria: "Acessórios",
       imagem: "images/capa.svg",
