@@ -4,8 +4,8 @@ Nesta atividade, será desenvolvido um programa para praticar o uso de funções
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Sulamita Pinheiro de Souza
+- Matrícula: 927424
 
 ## Prints do trabalho
 
