@@ -1,13 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="script.js"></script>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Barbie's Bazar ✦</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="styles.css" />
+<img src="banner.svg" alt="Barbie's Bazar" style="width:100%; display:block;" />
+
 </head>
-<body>
-    
+
+
+  <section class="controls">
+    <div class="control-group">
+      <span class="control-icon">🔍</span>
+      <input id="search" type="text" placeholder="buscar produto..." autocomplete="off" />
+    </div>
+    <div class="control-group">
+      <span class="control-icon">🏷️</span>
+      <select id="category">
+        <option value="todas">Todas</option>
+      </select>
+    </div>
+    <button id="btnRender">✦ Renderizar</button>
+  </section>
+
+  <main>
+    <div id="product-list"></div>
+  </main>
+
+  <section id="product-details"></section>
+
+  <footer>
+    <p>✦ Bazar © 2026 — feito com muito pink ✦</p>
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
